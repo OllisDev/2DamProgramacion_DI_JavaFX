@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OllisProject",
+            "request": "launch",
+            "mainClass": "com.example.sesion0611.ProyectoJavaFX.OllisProject",
+            "projectName": "demo",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
             "name": "Calculadora",
             "request": "launch",
             "mainClass": "com.example.sesion2910.Calculadora",
